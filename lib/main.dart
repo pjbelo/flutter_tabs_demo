@@ -28,6 +28,7 @@ class TabsDemo extends StatelessWidget {
   Widget build(BuildContext context) {
     return DefaultTabController(
       length: 3,
+      initialIndex: 2, // remember the first is 0
       child: Scaffold(
         appBar: AppBar(
           bottom: const TabBar(
