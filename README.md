@@ -1,16 +1,18 @@
-# flutter_tabs_demo
+# Flutter Tabs Demo
 
-A new Flutter project.
+Code related to blog post:
 
-## Getting Started
+https://www.flutter-demo.net/2023/01/flutter-using-tabs-simple-demo.html
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Flutter: using Tabs - a simple demo 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to use Tabs in Flutter, using `DefaultTabController` class, how to set a default Tab and how to listen to updates in TabBar.
+
+
+
+![Image](assets/images/tabs-demo-step-3.gif)
+
+
+
